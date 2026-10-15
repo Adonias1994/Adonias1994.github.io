@@ -1,9 +1,6 @@
 ### 👨‍💻 Desenvolvedor Full Stack em Formação | Java, Spring Boot & Angular | Cyber Security
 
-Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando o Bacharelado em Ciência da Computação. Enquanto busco ativamente minha primeira oportunidade profissional como desenvolvedor, dedico meus dias à construção de projetos práticos para dominar o desenvolvimento Full Stack. Gosto de alinhar código com a mentalidade "Security by Design", trazendo meus em Cyber Security (Blue Team) e Python para a minha rotina diária de desenvolvimento.
-
-**🚀 Foco Atual:** 
-Estudando e desenvolvendo projetos para dominar APIs RESTful robustas com Java e Spring Boot, além de criar aplicações front-end dinâmicas com Angular e TypeScript.
+Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando o Bacharelado em Ciência da Computação. Enquanto busco ativamente minha primeira oportunidade profissional como desenvolvedor, dedico meus dias à construção de projetos práticos para dominar o desenvolvimento Full Stack.
 
 ### 🛠️ O que estou estudando e praticando
 *   **Backend & Arquitetura:** Java, Spring Boot, APIs REST, JSON, Python
