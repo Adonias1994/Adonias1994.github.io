@@ -1,4 +1,4 @@
-### 👨‍💻 Desenvolvedor Full Stack em Formação | Java, Spring Boot & Angular | Cyber Security
+### 👨‍💻 Desenvolvedor Full Stack em Formação
 
 Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando o Bacharelado em Ciência da Computação. Enquanto busco ativamente minha primeira oportunidade profissional como desenvolvedor, dedico meus dias à construção de projetos práticos para dominar o desenvolvimento Full Stack.
 
